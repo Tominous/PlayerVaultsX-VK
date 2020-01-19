@@ -7,7 +7,7 @@
 # Debug Mode
 #  This will print everything the plugin is doing to console.
 #  You should only enable this if you're working with a contributor to fix something.
-debug: false
+debug: true
 
 # Language
 #  This determines which language file the plugin will read from.
@@ -17,7 +17,7 @@ language: english
 # Signs
 #  This will determine whether vault signs are enabled.
 #  If you don't know what this is or if it's for you, see the resource page.
-signs-enabled: false
+signs-enabled: true
 
 # Economy
 #  These are all of the settings for the economy integration. (Requires Vault)
